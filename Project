@@ -1,0 +1,48 @@
+# Projects
+
+## 🔹 1. RFID-based Traffic Control System
+A smart traffic control system that adjusts lane priority using IR sensors and detects stolen vehicles in real time using RFID.
+
+**Features**
+- IR-based traffic density sensing  
+- Automatic lane priority  
+- RFID stolen vehicle detection  
+- I2C LCD live status display  
+- Servo motor gate control  
+
+**Tech Used:** Arduino, IR Sensor, RFID-RC522, Servo Motor, I2C LCD  
+
+
+---
+
+## 🔹 2. Color Sorting Conveyor System
+A dual-servo based color sorting system that categorizes objects based on color.
+
+**Features**
+- One servo drops items one-by-one  
+- Second servo sorts based on detected color  
+- Real-time processing  
+
+**Tech Used:** Arduino, Color Sensor, Servo Motors  
+
+
+---
+
+## 🔹 3. Gesture-Based Switch Control (Medical Use)
+A touchless switching system for patients with limited mobility.  
+Controls electrical appliances using simple hand gestures.
+
+**Features**
+- No physical contact  
+- Safe for medical environment  
+- Gesture-to-relay control  
+
+**Tech Used:** Arduino / ESP32, Gesture Sensor, Relay Module  
+
+
+---
+
+## 🔹 4. Simple IoT Monitoring Prototype (Mini Project)
+A small IoT system that monitors sensor data and sends updates through Wi-Fi.
+
+**Tech Used:** ESP32, MQTT / Wi-Fi
